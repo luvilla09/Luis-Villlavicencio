@@ -1,0 +1,17 @@
+body {
+    background-color: lightskyblue;
+    color: black
+}
+
+h1 {
+    margin-bottom: 40px;
+    margin-top: 50px;
+    margin-left: 60px;
+    font-family: sans-serif;
+}
+
+p{
+    font-family: 'consolas', sans-serif;
+    width: 450px;
+    margin-left: 40px;
+}

@@ -1,0 +1,23 @@
+body {
+    background-color: lightskyblue;
+    color: black
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    font-family: sans-serif;
+}
+
+.centered{
+    margin: 0 auto;
+    width: 170px;
+}
+
+ul{
+    align-items: center;
+    font-family: 'consolas', sans-serif;
+    width: 450px;
+    left: 1000px;
+}
